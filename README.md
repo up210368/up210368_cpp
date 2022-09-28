@@ -1,2 +1,2 @@
 # Jorge López
-![](images/stranger%20things.gif)
+![](Images/stranger%20things.gif)
