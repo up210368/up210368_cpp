@@ -72,7 +72,7 @@ int main()
 }
 ```
 <div align = "center">
-<img alt = "stranger things" src = '/Images/stranger things'>
+<img alt = "stranger things" src = '/images/stranger things'>
 </div>
 
 ## Tabla
