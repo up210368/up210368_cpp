@@ -6,7 +6,7 @@
 using namespace std;
 int main ()
 {   
-    int r, des, total;
+    int r, des, total; 
     cout << "cuanto pagas de renta anual?" << endl;
     cin >> r;
 
