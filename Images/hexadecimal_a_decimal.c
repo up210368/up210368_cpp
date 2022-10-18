@@ -84,5 +84,5 @@ int main()
         }
     }
 
-    printf("El numero decimal es: %d", sum);
+    printf("El numero decimal es: %d\n", sum);
 }
