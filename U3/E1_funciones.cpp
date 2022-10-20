@@ -20,7 +20,7 @@ int sumatoria(int n)
     }
     return r;
 }
-double Ec(int x)
+double Ec(int x) //x^2 - 8x + 15
 {
     double r;
     r = pow(x, 2) - 8 * x + 15;
@@ -54,17 +54,16 @@ int main(int argc, char const *argv[])
     int n = 10;
     double x = doble(5);
     x = sumatoria(n);
-    /*cout << "La sumatoria de " << n << " es: " << x << endl;
+    cout << "La sumatoria de " << n << " es: " << x << endl;
     for (int i = 0; i <= 10; i++)
     {
         x = Ec (i);
         cout << "x = " << i << " R ecuacion = " << x << endl;
     } 
     x = Ec2(1.031232234);
-    printf("%10.10f\n", x);*/
+    printf("%10.10f\n", x);
     string res = camello ("Upa");
     cout << res << endl;
-    //printf ("%s", camello ("Upa"))
 
     return 0;
 }
