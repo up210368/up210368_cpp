@@ -9,7 +9,7 @@ while cantidad != 0:
         precio = int (input ())
         suma = suma + precio
     subtotal = suma
-    print ("El subtotal de esos productos es ", subtotal)
+    print ("El subtotal de esos productos es $",subtotal)
     total = total + subtotal
     cantidad = int (input ("Cuantos productos compraste?\n"))
-print ("El total de lo que compraste es ", total)
+print ("El total de lo que compraste es $",total)
