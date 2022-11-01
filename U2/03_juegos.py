@@ -1,4 +1,3 @@
-
 edad = int (input("Cual es tu edad?\n"))
 
 if edad >0 and edad < 4: 
