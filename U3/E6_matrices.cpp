@@ -1,17 +1,24 @@
 #include <iostream>
 #include <stdio.h>
+//#include <windows.h>
 using namespace std;
 
-/*void imprimirA(int A[][], int f, int c)
+/*void imprimirA(int A[][c], int f) void = procedimiento (no es una funcion/ No regresa nada).
 {
-    cout << "Matriz A" <<  
+    cout << "Matriz A" <<  endl;
+    for (int i=0; i<f; i++)
+    {
+        for (int j=0; j<c; j++)
+        {
+            
+        }
+    }
 }*/
 
 int main()
 {
     int f = 2, c = 3;
     int matriz[f][c];
-    // matriz [1][2] = 6;
     for (int i=0; i<f; i++)
     {
         for (int j=0; j<c;j++)
