@@ -67,3 +67,5 @@ int main()
     sumaR(matriz);
     return 0;
 }
+
+// Tarea: suma por renglones y suma por columnas

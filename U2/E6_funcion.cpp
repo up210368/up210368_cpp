@@ -5,7 +5,7 @@ using namespace std;
 int xnueva (int x)
 {
     int r = 0;
-    r = x 
+    r = x;
     return x;
 }
 
