@@ -81,9 +81,6 @@ int main()
 | Rojo | #FF0000 |
 | Azul | #0000FF |
 
-`https://github.com/up210368`
+`My github user`
 https://github.com/up210368
 > [github] (https://github.com/up210368)
-
-<https://github.com/up210368> "github"
-<a> <href = "https://github.com/up210368"> https://github.com/up210368 </a>
