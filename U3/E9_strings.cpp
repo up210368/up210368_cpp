@@ -22,7 +22,6 @@ int main ()
     cout << "Clear:" << texto << endl;
     texto.swap(texto2); // intercambia el valor de cada texto
     cout << "swap: " << texto << endl;
-    cout << "Reserve: " << texto2.reserve("haha") << endl;
 
     return 0;
 }
