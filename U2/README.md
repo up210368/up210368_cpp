@@ -1,6 +1,14 @@
-# Códigos Unidad 2
+# Códigos Unidad 2  
 ---
 ---
+###### click para abrir
+<style>
+    summary {display: block}
+    </style>
+<details> <summary><center> <h2> <b>Ejercicios en clase</b></center> </summary> 
+<br>
+<details> <summary> E1. abc </summary>
+
 ## **abc**
 ```
 #include <iostream>
@@ -54,8 +62,11 @@ int main()
 ```
 ## *Compilado*
 ![](/Images/abc.PNG)
+</details>
 
 ---
+<details> <summary> E2. Tabla </summary>
+
 ## **Tabla**
 ```
 #include <iostream>
@@ -109,8 +120,11 @@ int main()
 ```  
 ## *Compilado*
 ![](/Images/tabla.PNG)  
+</details>
 
 ---
+<details> <summary> E3. Ciclo while </summary>
+
 ## **Ciclo while**
 ```
 #include <iostream>
@@ -140,8 +154,11 @@ int main()
 ```
 ## *Compilado*
 ![](/Images/ciclowhile.PNG)
+</details>
 
 ---
+<details> <summary> E4. For anidados </summary>
+
 ## **forfor**
 ```
 #include <iostream>
@@ -167,10 +184,15 @@ int main()
 ![](/Images/forfor2.PNG)
 ![](/Images/forfor3.PNG)
 ![](/Images/forfor4.PNG)
+</details>
 
 ---
 ---
-# Ejercicios
+</details>
+
+<details> <summary><center> <h2> <b> Tareas </b></center> </summary> 
+<details> <summary> 1. Tramos </summary>
+
 ## **Tramos**
 ```
 /*
@@ -232,8 +254,11 @@ int main ()
 ```
 ## *Compilado*
 ![](/Images/tramos.PNG)
+</details>
 
 ---
+<details> <summary> 2. Puntuacion </summary>
+
 ## **puntuacion**
 ```
 #include <iostream>
@@ -275,8 +300,11 @@ int main()
 }
 ```
 ![](/Images/puntuacion.PNG)  
+</details>
 
 ---
+<details> <summary> 3. Juegos </summary>
+
 ## **juegos** (lenguaje python)
 ```
 edad = int (input("Cual es tu edad?\n"))
@@ -291,8 +319,11 @@ else:
     print ("Valor invalido\n")
 ```
 ![](/Images/juegos.PNG)
+</details>
 
 ---
+<details> <summary> 4. Pizza </summary>
+
 ## **pizza** (lenguaje python)
 ```
 pizza = input ("Que tipo de pizza quieres. Vegetariana o no vegetariana? (usa minusculas)\n")
@@ -318,8 +349,11 @@ elif pizza == "no vegetariana":
             print ("No contamos con ese ingrediente. Intente de nuevo")
 ```
 ![](/Images/pizza.PNG)
+</details>
 
 ---
+<details> <summary> 5. Temperatura </summary>
+
 ## **temperatura** (lenguaje python)
 ```
 contador = 0
@@ -339,8 +373,11 @@ prom = contador / datos
 print ("\n\nEl promedio de las temperaturas es: ", prom, "\nLa temperatura mas baja es: ", menor, "\nLa temperatura mas alta es: ", mayor)
 ```
 ![](/Images/temp.PNG)
+</details>
 
 ---
+<details> <summary> 6. Productos </summary>
+
 ## **productos** (lenguaje python)
 ```
 subtotal = 0
@@ -359,8 +396,11 @@ while cantidad != 0:
 print ("El total de lo que compraste es $",total)
 ```
 ![](/Images/productos.PNG)
+</details>
 
 ---
+<details> <summary> 7. Binario a decimal </summary>
+
 ## **binario a decimal**
 ```
 #include <iostream>
@@ -402,6 +442,8 @@ int main()
 }
 ```
 ![](/Images/binario.PNG)
+</details>
 
 ---
 ---
+</details>

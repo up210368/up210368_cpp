@@ -1,7 +1,10 @@
 # Códigos Unidad 1
+## Programas básicos.
 ---
 ---
-## **Hola mundo**
+<details> <summary> E1. Hola mundo </summary>
+
+## **Hola mundo** 
 ```
 #include <iostream>
 #include <stdio.h>
@@ -16,8 +19,11 @@ int main()
 ```
 ## *Compilado*  
 ![](/Images/hola.PNG)  
+</details>
 
 ---
+<details> <summary> E2. Par impar </summary>
+
 ## **parimpar**  
 ```
 #include <iostream>
@@ -33,8 +39,11 @@ int main()
 ```  
 ## *Compilado*  
 ![](/Images/parimpar.PNG)  
+</details>
 
----  
+--- 
+<details> <summary> E3. Tipos de datos </summary>
+
 ## **Tipos de datos**  
 ```
 #include <iostream>
@@ -65,8 +74,11 @@ int main()
 ```
 ## *Compilado* 
 ![](/Images/Datos.PNG)  
+</details>
 
 --- 
+<details> <summary> E4. Ciclos </summary>
+
 ## **Ciclos**
 ```
 #include <iostream>
@@ -99,8 +111,11 @@ int main ()
 ```  
 ## *Compilado* 
 ![](/Images/ciclo.PNG)  
+</details>
 
 ---
+<details> <summary> E5. If edades </summary>
+
 ## **if edades**
 ```
 #include <iostream>
@@ -151,6 +166,7 @@ int main()
 ```
 ## *Compilado*
 ![](/Images/edad.PNG)  
+</details>
 
 ---  
 ---
