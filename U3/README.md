@@ -1,6 +1,8 @@
 # Unit 3 programs
 ---
 ---
+<details> <summary> 1. Biseccion </summary>
+
 ## **01 biseccion**
 ```
 #include <iostream>
@@ -44,8 +46,11 @@ int main ()
 ```
 ## *Run*
 ![](/Images/biseccion.PNG)
+</details>
 
 ---
+<details> <summary> 2. Bisiesto </summary>
+
 ## **02 bisiesto**
 ```
 #include <iostream>
@@ -78,8 +83,11 @@ int main()
 ```
 ## *Run*
 ![](/Images/bisiesto.PNG)
+</details>
 
 ---
+<details> <summary> 3. Coseno </summary>
+
 ## **03 Coseno**
 ```
 #include <iostream>
@@ -137,9 +145,12 @@ double coseno(double g, int i)
 }
 ```
 ![](/Images/coseno.PNG)
+</details>
 
 ---
-## **04 desviación estándar**
+<details> <summary> 4. Desviación estándar </summary>
+
+## **04 Desviación estándar**
 ```
 #include <iostream>
 #include <math.h>
@@ -252,8 +263,11 @@ int main()
 }
 ```
 ![](/Images/desviacion.PNG)
+</details>
 
 ---
+<details> <summary> 5. Moneda </summary>
+
 ## **05 moneda**
 ```
 #include <iostream>
@@ -287,8 +301,11 @@ int main()
 }
 ```
 ![](/Images/moneda.PNG)
+</details>
 
 ---
+<details> <summary> 6. Arabigos a romanos </summary>
+
 ## **06 Arabigos a romanos**
 ```
 #include <iostream>
@@ -392,8 +409,11 @@ int main()
 }
 ```
 ![](/Images/romano.PNG)
+</details>
 
 ---
+<details> <summary> 7. RFC </summary>
+
 ## **07 RFC**
 ```
 #include <iostream>
@@ -493,8 +513,11 @@ string apellidos(string a, string b)
 }
 ```
 ![](/Images/rfc.PNG)
+</details>
 
 ---
+<details> <summary> 8. Ordenar vector </summary>
+
 ## **08 ordenar vector**
 ```
 #include <iostream>
@@ -537,8 +560,11 @@ void Ordenar(int x[], int v)
 }
 ```
 ![](/Images/ordenarv.PNG)
+</details>
 
 ---
+<details> <summary> 9. Función recursiva </summary>
+
 ## **09 Función recursiva**
 ```
 #include <iostream>
@@ -572,6 +598,7 @@ void comprobar(char r)
 }
 ```
 ![](/Images/recursiva.PNG)
+</details>
 
 ---
 ---
