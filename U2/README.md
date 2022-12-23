@@ -1,11 +1,8 @@
 # Códigos Unidad 2  
 ---
 ---
-###### click para abrir
-<style>
-    summary {display: block}
-    </style>
-<details> <summary><center> <h2> <b>Ejercicios en clase</b></center> </summary> 
+
+<details> <summary> <h2> <b>Ejercicios en clase</b> </summary> 
 <br>
 <details> <summary> E1. abc </summary>
 
@@ -190,7 +187,7 @@ int main()
 ---
 </details>
 
-<details> <summary><center> <h2> <b> Tareas </b></center> </summary> 
+<details> <summary> <h2> <b> Tareas </b> </summary> 
 <details> <summary> 1. Tramos </summary>
 
 ## **Tramos**
